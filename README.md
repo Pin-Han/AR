@@ -3,3 +3,5 @@
   2.Open safari brower and Scan QR code.
   3.Show pokemon 3d model
   
+#Demo
+https://pin-han.github.io/AR/
